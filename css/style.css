@@ -1,0 +1,31 @@
+
+#content{
+border:0px solid gray;
+height: 100%;
+}
+
+#list{
+position: relative;
+border:0px solid red;
+width: 100%;
+float: left;
+}
+
+.litem{
+position: relative;
+float: left;
+width: 800px;
+}
+
+.item{
+position: relative;
+border:0px solid green;
+width: auto;
+float: left;
+}
+
+.dtime{
+position: relative;
+width: 50%;
+float: right;
+}
